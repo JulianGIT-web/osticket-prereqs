@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<imghttps://github.com/JulianGIT-web/osticket-prereqs/blob/cbad625d62a3092419e740d1a1204ffabff4ce39/Screenshot%202026-03-14%20145024.png/>
+https://github.com/JulianGIT-web/osticket-prereqs/blob/cbad625d62a3092419e740d1a1204ffabff4ce39/Screenshot%202026-03-14%20145024.png
 </p>
 <p>
 Before we can begin using osTicket, we have to create and log into a virtual machine using Microsoft Azure. Using the VM we will download osticket to the desktop and unzip it. (Make sure your VM is using Windows 10 22h2 and 2 VCPUs with 16Gb of RAM) 
