@@ -28,10 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img/>
 </p>
 <p>
-Before we can begin using osTicket, we have to create and log into a virtual machine using Microsoft Azure. Using the VM we will download osticket to the desktop and unzip it.  
+Before we can begin using osTicket, we have to create and log into a virtual machine using Microsoft Azure. Using the VM we will download osticket to the desktop and unzip it. (Make sure your VM is using Windows 10 22h2 and 2 VCPUs with 16Gb of RAM) 
 </p>
 <br />
 
