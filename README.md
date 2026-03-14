@@ -40,7 +40,7 @@ Before we can begin using osTicket, we have to create and log into a virtual mac
 </p>
 <h2>IIS and CGI</h2>
 <p>
-Inside off your VM open the control panel. Then open "Programs". Under programs select "Turn Windows features on and off" in order to access IIS and CGI.  
+Inside of your VM open the control panel. Then open "Programs". Under programs select "Turn Windows features on and off" in order to access IIS and CGI.  
 </p>
 <br />
 
