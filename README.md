@@ -38,7 +38,7 @@ Before we can begin using osTicket, we have to create and log into a virtual mac
 </p>
 <br />
 ![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/bbeda5d0a9cddb00901f41285f8c15a63cf6ab6a/Screenshot%202026-03-14%20145024.png)
-![image alt]()
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/24b024423676ae4c93062a3dfb5f6fac89f7c76e/Screenshot%202026-03-14%20151233.png)
 <p>
 </p>
 <h2>IIS and CGI</h2>
