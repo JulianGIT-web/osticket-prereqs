@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Before we can begin using osTicket, we have to create and log into a virtual machine using Microsoft Azure. Log in via remote desktop and, using the VM, download and unzip osticket. (Make sure your VM is using Windows 10 22h2 and 2 VCPUs with 8Gb of RAM each at least) 
 </p>
 <br />
-
+![image alt]()
 <p>
 </p>
 <h2>IIS and CGI</h2>
