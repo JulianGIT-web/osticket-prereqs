@@ -55,7 +55,7 @@ Inside your VM, open the control panel. Then open "Programs". Under Programs, se
 
 ![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20163744.png)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>PHP Manager and MySQL</h2>
 <p>
@@ -64,9 +64,11 @@ From within the osTicket installation files, download the PHP Manager, rewrite m
 <br />
 
 ![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20164106.png)
-
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20164201.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164323.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164437.png)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>IIS Manager</h2>
 <p>
@@ -74,8 +76,12 @@ Now, in the Windows search bar, type IIS and open Internet Information Services 
 </p>
 <br />
 
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164559.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164629.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164718.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164800.png)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>Install osTicket</h2>
 <p>
@@ -83,8 +89,12 @@ To install osTicket, extract the zipped folder on the C drive. Inside the unzipp
 </p>
 <br />
 
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20164927.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165053.png)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>IIS Permissions</h2>
 <p>
@@ -92,8 +102,12 @@ Navigate back to the IIS Manager. Reload IIS. Underneath connections on the left
 </p>
 <br />
 
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165213.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165500.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165701.png)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>IIS Permissions cont.</h2>
 <p>
@@ -102,11 +116,20 @@ properties-->Security-->Advanced. Select Disable inheritance to first remove all
 </p>
 <br />
 
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165701.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165756.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165836.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20165934.png)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <h2>HeidiSQL and osTIcket setup</h2>
 <p>
 From the osTicket installation folder on the C drive, install and launch HeidiSQL. Within the HeidiSQL session manager, create a new session and login with the password you created when setting up MySQL. Inside the session, create a database named "osTicket". In the osTicket browser, enter the MySQL database, username, and password, and click install now. 
 </p>
 <br />
+
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20170032.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20170047.png)
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/e5029f27107fbeb43bb79c7061f47712a0cb991f/Screenshot%202026-03-15%20170256.png)
