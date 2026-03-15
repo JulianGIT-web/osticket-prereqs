@@ -15,15 +15,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
 - CGI
 - IIS
 - C++ Redistributables
-- Item 4
-- Item 5
+- PHP Manager
+- Heidi SQL
+- MySQL
+- Rewrite Module
+- osTicket
 
 <h2>Virtual Machine</h2>
 
@@ -36,7 +39,6 @@ Before we can begin using osTicket, we have to create and log into a virtual mac
 <br />
 
 <p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/fwAamS5" data-context="false" ><a href="//imgur.com/a/fwAamS5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 <h2>IIS and CGI</h2>
 <p>
