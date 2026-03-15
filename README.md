@@ -37,7 +37,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Before we can begin using osTicket, we have to create and log into a virtual machine using Microsoft Azure. Log in via remote desktop and, using the VM, download and unzip osticket. (Make sure your VM is using Windows 10 22h2 and 2 VCPUs with 8Gb of RAM each at least) 
 </p>
 <br />
+
 ![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/bbeda5d0a9cddb00901f41285f8c15a63cf6ab6a/Screenshot%202026-03-14%20145024.png)
+
 ![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/24b024423676ae4c93062a3dfb5f6fac89f7c76e/Screenshot%202026-03-14%20151233.png)
 <p>
 </p>
@@ -47,6 +49,11 @@ Inside your VM, open the control panel. Then open "Programs". Under Programs, se
 </p>
 <br />
 
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20163528.png)
+
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20163720.png)
+
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20163744.png)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -55,6 +62,8 @@ Inside your VM, open the control panel. Then open "Programs". Under Programs, se
 From within the osTicket installation files, download the PHP Manager, rewrite module, C++ redistributables, and MySQL. After downloading the PHP Manager, create a folder on your C drive at C:/PHP and extract it there. After installing MySQL, select "typical setup" when prompted and launch the configuration wizard. Within the wizard, select standard configuration and create a memorable root password. Execute the wizard.
 </p>
 <br />
+
+![image alt](https://github.com/JulianGIT-web/osticket-prereqs/blob/f65ad8b07314694fcf880f559272750bb3b6a589/Screenshot%202026-03-15%20164106.png)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
